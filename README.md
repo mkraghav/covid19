@@ -22,6 +22,8 @@ The coming release has the following additional features :
 
 8.Source & Last updated info
 
+9.You can also Donate To PM-Care Funds
+
 
 Link to my web app:
 https://covid19co.herokuapp.com/
